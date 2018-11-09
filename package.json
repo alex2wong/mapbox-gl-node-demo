@@ -1,0 +1,25 @@
+{
+  "name": "mapbox-gl-node-demo",
+  "version": "1.0.0",
+  "description": "demo for how to use mapbox-gl-node",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex2wong/mapbox-gl-node-demo.git"
+  },
+  "keywords": [
+    "mapbox-gl-native",
+    "node"
+  ],
+  "author": "alex2wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex2wong/mapbox-gl-node-demo/issues"
+  },
+  "homepage": "https://github.com/alex2wong/mapbox-gl-node-demo#readme"
+}
